@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "iflytek_sparkchain"
 include(":app")
- 
+include(":library")
